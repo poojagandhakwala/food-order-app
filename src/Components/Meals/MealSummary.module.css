@@ -1,0 +1,12 @@
+.summary{
+  color: white!important;;
+  text-align: center!important;
+  width: 40%;
+  height:auto;
+  border-radius: 30px;
+  background-color: #3f3f3f;
+  margin-top: -10rem;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}

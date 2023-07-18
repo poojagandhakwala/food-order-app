@@ -1,0 +1,16 @@
+.button{
+  background-color: #571901!important;
+  color: white;
+  border:none;
+  border-radius:30px;
+  padding:10px 20px;
+  font-weight: bold;
+  /* height: 3rem; */
+}
+.badge{
+  background-color: #b93602;
+  color:white;
+  margin: 5px 10px;
+  padding: 5px 20px;
+  border-radius:15px;
+}
