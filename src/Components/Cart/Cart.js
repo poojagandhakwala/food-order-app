@@ -15,13 +15,11 @@ function Cart(props) {
   <ul 
   // className={style['cart-items']}
   >
-    {cartCtx.items.map((item)=>{
+    {cartCtx.items.map((item,index)=>
       <>
-      1
-      <li>{item.name}</li>
-      <li>{item.name}</li>
+      <li key={index}>1 X {item.name}</li>
       </>
-    })}
+    )}
   </ul>);
 
   return (
